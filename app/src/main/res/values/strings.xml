@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lat1_AKB2_10116079_PurnamaAdjie</string>
+    <string name="textberanda">Monitory Membantu Anda\n Mengontrol HP Anak</string>
+    <string name="kodekeluarga">Kode Keluarga</string>
+    <string name="keluarga2">Ketikan kode keluarga yang Ayah Bunda\nmiliki disini</string>
+    <string name="kebijakan">Dengan menekan tombol masuk berarti Anda menyetujui\n<b>Ketentuan Pengguna</b> dan <b> Kebijakan Data</b> kami</string>
+    <string name="belumkk">Belum punya kode keluarga ?</string>
+    <string name="nama_panggilan">Nama Panggilan Kamu</string>
+    <string name="beres">Beres! Sekarang kamu\nudah bisa ngecek\nPenggunaan HP mu\ntiap hari buat bantu kamu\nngatur waktu :)</string>
+    <string name="hint1">Contoh : Budi</string>
+    <string name="hint2">Contoh : 12</string>
+</resources>
